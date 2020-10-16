@@ -1,0 +1,56 @@
+body{
+background-color:black;
+background-image:url("homepage.jpg");
+background-repeat:no-repeat;
+background-position:28px 90px;
+}
+
+.logo{
+height:28%;
+width:20%;
+margin-left:58%;
+margin-top:5%;
+}
+		
+.name{
+margin-top:0%;
+height:17%;
+width:25%;
+margin-left:56%;
+}
+		
+ p{
+color:white; 
+font-family:french script mt; 
+font-size:40px; 
+height:7%; 
+width:54%; 
+margin-top:3%;
+margin-left:43%;
+letter-spacing:1.5px;
+margin-bottom:0%;
+}
+		
+a{
+color:purple; 
+margin:23px; 
+font-size:30px; 
+font-family:Harlow Solid; 
+cursor:crosshair; 
+text-decoration:none;
+}
+   		
+a:hover{
+color:green; 
+text-decoration:underline
+}
+    	                 
+div{
+margin-top:0%;
+margin-left:45%; 
+border-top-style:dotted; 
+border-bottom-style:dotted; 
+border-color:white; 
+padding:15px;
+width:48%;
+}     
